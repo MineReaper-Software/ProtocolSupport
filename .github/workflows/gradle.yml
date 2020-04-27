@@ -29,5 +29,3 @@ jobs:
       with:
     # Artifact name
         name: ProtocolSupport.jar
-    # Directory containing files to upload
-        path: artifacts/
